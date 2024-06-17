@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @KavinduPalihakkara a full-stack developer and Android wizard.
+- 👀 I’m interested in leveraging AWS services to build scalable and robust cloud solutions.
+- 🌱 I’m currently learning advanced React/typescript techniques and diving into Flutter for Android development.
+- 📫 Drop me an email at kavindukashmira2002@gmail.com or connect with me on LinkeIn.
