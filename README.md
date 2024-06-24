@@ -1,4 +1,4 @@
-
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=KavinduPalihakkara.KavinduPalihakkara" />
 
 <h3 align="center">Aspiring full-stack Software Developer</h3>
 <br/>
