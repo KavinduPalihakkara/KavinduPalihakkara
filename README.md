@@ -1,8 +1,3 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=25&pause=1000&color=45C2F7&random=false&width=435&lines=Hello%2C+I'm+Kavindu+%F0%9F%91%8B" />
-</h1>
-<hr/>
-
 <h3 align="center">Aspiring Full-Stack Software Developer</h3>
 <br/>
 
